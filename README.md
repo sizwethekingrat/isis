@@ -93,3 +93,11 @@ Scalar chart, being the result of an action to analyze `ToDoItem`s by their cate
 A scalar chart is simply a wrapper around a [WickedChart](http://wicked-charts.googlecode.com).
 s
 
+
+#### Neo4j
+
+Embedded Neo4j server runs along side Isis on port 7474 by default.
+(https://github.com/Sprint/isis-neo4j/)
+
+Shown with simpleapp fixture script installed  
+![alt text](https://raw.githubusercontent.com/Sprint/isis-neo4j/master/src/test/resources/NeoBrowser.PNG "Embedded Neo4j Browser")
